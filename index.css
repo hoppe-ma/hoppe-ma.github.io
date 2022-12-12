@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/Allianz-Arena-Muenchen-DE-Objekt3.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/Fiera-Milano-IT-Objekt21.jpg");
   background-position: 50% 50%;
 }
 
@@ -21,16 +21,8 @@
 
 .u-section-1 .u-text-1 {
   text-transform: uppercase;
-  letter-spacing: 1px;
-  font-size: 1.5rem;
-  font-weight: 700;
-  margin: 30px 20px 0 0;
-}
-
-.u-section-1 .u-text-2 {
-  text-transform: uppercase;
   font-size: 2.25rem;
-  margin: 20px 20px 0 0;
+  margin: 30px 20px 0 0;
 }
 
 .u-section-1 .u-line-1 {
@@ -39,8 +31,8 @@
   margin: 30px auto 0 0;
 }
 
-.u-section-1 .u-text-3 {
-  margin: 30px 66px 0 0;
+.u-section-1 .u-text-2 {
+  margin: 30px 50px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -77,17 +69,12 @@
     margin-right: 16px;
   }
 
-  .u-section-1 .u-text-2 {
-    position: relative;
-    margin-right: 16px;
-  }
-
   .u-section-1 .u-line-1 {
     width: 80px;
     position: relative;
   }
 
-  .u-section-1 .u-text-3 {
+  .u-section-1 .u-text-2 {
     position: relative;
     margin-right: 158px;
   }
@@ -117,15 +104,11 @@
     margin-right: 13px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-right: 13px;
-  }
-
   .u-section-1 .u-line-1 {
     width: 61px;
   }
 
-  .u-section-1 .u-text-3 {
+  .u-section-1 .u-text-2 {
     margin-right: 121px;
   }
 
@@ -153,15 +136,11 @@
     margin-right: 9px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-right: 9px;
-  }
-
   .u-section-1 .u-line-1 {
     width: 57px;
   }
 
-  .u-section-1 .u-text-3 {
+  .u-section-1 .u-text-2 {
     margin-right: 91px;
   }
 
@@ -188,10 +167,6 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 6px;
-  }
-
-  .u-section-1 .u-text-2 {
     font-size: 1.875rem;
     margin-right: 6px;
   }
@@ -200,7 +175,7 @@
     width: 48px;
   }
 
-  .u-section-1 .u-text-3 {
+  .u-section-1 .u-text-2 {
     margin-right: 57px;
   }
 
@@ -268,7 +243,7 @@
 }
 
 .u-section-2 .u-text-4 {
-  margin: 40px 20px 0;
+  margin: 40px 0 0 20px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -280,11 +255,7 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 500px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    position: relative;
+    min-height: 530px;
   }
 
   .u-section-2 .u-layout-cell-1 {
@@ -334,6 +305,10 @@
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
     min-height: 605px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    position: relative;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -409,7 +384,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 934px;
+    min-height: 968px;
   }
 
   .u-section-2 .u-layout-cell-1 {
@@ -1679,7 +1654,7 @@
 
 .u-section-6 .u-layout-cell-1 {
   min-height: 475px;
-  background-image: url("images/be60b4bef50944a54eb655fa128f19f5-10.png");
+  background-image: url("images/be60b4bef50944a54eb655fa128f19f5-9.png");
 }
 
 .u-section-6 .u-container-layout-1 {

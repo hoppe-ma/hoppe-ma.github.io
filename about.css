@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("images/Fiera-Milano-IT-Objekt2.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/Fiera-Milano-IT-Objekt2.jpg");
   background-position: 50% 50%;
 }
 
@@ -28,7 +28,7 @@
 .u-section-1 .u-text-2 {
   text-transform: none;
   letter-spacing: normal;
-  margin: 56px 20px 0;
+  margin: 56px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -599,7 +599,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  background-image: url("images/Allianz-Arena-Muenchen-DE-Objekt3-12.jpg");
+  background-image: url("images/Allianz-Arena-Muenchen-DE-Objekt3.jpg");
   min-height: 680px;
   background-position: 50% 50%;
 }
